@@ -1,0 +1,108 @@
+git --version      //To check the version
+
+git help           // To get help from git
+
+git help commit     // To get commit help
+
+
+
+git init  //Initilaizing git repository on local machine. This command is used to create a new Git repository.
+
+
+
+git status                 //To check changes or status of the file
+
+
+
+git add .  //To add all the files and folders to the staging area.
+
+git add --all   //Stage all changes in the entire repository.
+
+git add <filename>    //Is used in Git to move a specific file from the working directory to the staging area.
+
+git add first.txt     //Used in Git to add the file named first.txt to the staging area.
+
+git add second.txt third.txt   //To add multiple file. s used in Git to add specific files to the staging area.
+
+git add <path/to/file>:    //This command stages a specific file. For example, git add index.html will add the index.html file to the staging area.
+
+
+
+
+git commit    // is used in Git to record changes to the local repository. This is the fundamental Git command for recording changes to the repository's history.
+
+git commit -m 'commit message'    // after staging using add
+
+git commit -m "message" --amend   //Is used to modify the most recent commit in Git.
+
+git commit -a -m 'commit message' // staging using a and commiting
+
+git commit -am 'commit message'   // staging and committing
+
+git commit -am "Message"   //Grab every thing in the working copy and -a allows to skip the staging copy
+
+
+
+git status  // The git status command provides a summary of the current state of a Git repository. It checks changes or status of the file
+
+
+
+git log            //Git command used to display the commit history of a repository.
+
+git log --all: Shows the commit history across all branches.
+
+git log --author ="name"      //Used in Git to filter the commit history and display only the commits made by a specific author.
+
+git log --oneline:          //Shows a concise view of the commit history, with each commit on a single line, including a shortened commit hash and the commit message.
+
+git log --graph: Visualizes the commit history as a graph, illustrating branches and merges. This is often combined with --oneline for better readability: git log --graph --oneline.
+
+git log --stat: Displays a summary of changes for each commit, including the files modified and the number of lines added or removed.
+
+git log --grep="<pattern>"                     //Filters the commit history to show commits with messages matching a specified pattern (regular expression).
+
+git log --since=<date> or git log --after=<date>            //Shows commits more recent than a specific date.
+
+git log --until=<date> or git log --before=<date>          //Shows commits older than a specific date.
+
+git log -n <number> or git log --max-count=<number>         //Limits the output to a specified number of commits.
+
+git log <commit_sha>        //Displays the history starting from a specific commit (including that commit and its ancestors).
+
+
+
+git checkout --     //command is used to restore specific files or directories in your working directory to a previous state.
+
+git checkout <branch-name>    //Switching to an existing branch.
+
+git checkout master      //The git checkout master command in Git serves to switch the current working branch to the master branch.
+
+git checkout -b <new-branch-name>      //Creating and switching to a new branch
+
+git checkout <commit-hash>          //Checking out a specific commit. How to go back and view a previous version of our code.
+
+git checkout <tag-name>          //Checking out a specific tag.
+
+git checkout -- <file-path>       //Restoring a file from the index or a specific commit.
+
+git checkout <commit-hash> -- <file-path>    //restores the specified file to its state in the index (the staging area).
+
+git checkout -b <new-branch-name> <tag-name>    //Creating a new branch from a tag.
+
+
+
+
+git switch                 //This is the primary command for switching branches in Git.
+
+git switch -c <new-branch-name>       //is used in Git to perform two actions simultaneously:  i.) Create a new branch:   ii.) Switch to the new branch: 
+
+git config --global alias.s "status"      //creates a global Git alias.
+
+
+
+git diff       //View changes in the working directory (unstaged changes).
+
+git diff --staged        //View staged changes (changes added to the staging area but not yet committed)
+
+git diff <commit-hash>      //View changes between the working directory and a specific commit
+
