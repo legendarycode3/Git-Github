@@ -248,6 +248,7 @@ git rm --cached <file>   //Tell Git to forget about a file without deleting it <
 
 
 
+git commit                           // Make a commit </br>
 git commit -m 'commit message'        // after staging using add    <br/>
 git commit -a -m 'commit message'      // staging using a and commiting     <br/>
 git commit -am 'commit message'        // staging and committing     <br/>
