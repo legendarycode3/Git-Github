@@ -276,4 +276,4 @@ git diff <commit> --stat  or  git show <commit> --stat   //Show a summary of a d
 
 
 
-git restore <file>      //Delete unstaged changes to one file </br>
+git restore <file>  or git checkout <file>     //Delete unstaged changes to one file </br>
