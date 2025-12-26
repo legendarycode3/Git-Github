@@ -258,7 +258,7 @@ git commit -am "Message"     //Grab every thing in the working copy and -a allow
 git log        // To see the history on the repository      <br/>
 git log --author ="name"   // To check change by specific user       <br/>
 git status     // To check changes or status of the file       <br/>
-
+git switch -c <name>   //reate a branch
 
 
 git checkout <name>  // Switch branches </br>
