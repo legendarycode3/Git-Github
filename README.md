@@ -242,6 +242,7 @@ git rm <file>   // Adding untracked file or unchanged changes </br>
 git rm <file>   // Delete file </br>
 git reset <file>  // Unstage one file </br>
 git status       // Check what you added </br>
+git reset       // Unstage everything </br>
 
 
 git commit -m 'commit message'        // after staging using add    <br/>
