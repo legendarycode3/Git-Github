@@ -192,8 +192,8 @@ If your team merge new features to the develop. Then you will be behind, now you
 
 
 
-## Git cheatsheet:
-HERE ARE SOME MORE GIT CHEATSHEET :
+## Git cheatsheets:
+**HERE ARE SOME MORE GIT CHEATSHEET :**
 
 git remote add <remote_name> <url>        // Link a local repository to a remote repository and give a name for this link    <br/>
 
@@ -241,6 +241,7 @@ git add -p      // Chosing which part of a file to stage: </br>
 git rm <file>   // Adding untracked file or unchanged changes </br>
 git rm <file>   // Delete file </br>
 git reset <file>  // Unstage one file </br>
+git status       // Check what you added </br>
 
 
 git commit -m 'commit message'        // after staging using add    <br/>
