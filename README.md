@@ -264,4 +264,4 @@ git switch -c <name>   //reate a branch
 git checkout <name>  // Switch branches </br>
 git branch            // List branch </br>
 git branch -d <name>   //Delete branch </br>
-git checkout -b <name>    //Create a branch  </br>
+git checkout -b <name> or git switch -c <name>    //Create a branch  </br>
