@@ -266,3 +266,7 @@ git branch            // List branch </br>
 git branch -d <name>   //Delete branch </br>
 git branch -D <name>     //Force delete a branch </br>
 git checkout -b <name> or git switch -c <name>    //Create a branch  </br>
+
+
+
+git show <commit>       //Show diff between a commit and its parent
