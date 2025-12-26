@@ -243,6 +243,8 @@ git rm <file>   // Delete file </br>
 git reset <file>  // Unstage one file </br>
 git status       // Check what you added </br>
 git reset       // Unstage everything </br>
+git mv <old> <new>   //Move file  </br>
+
 
 
 git commit -m 'commit message'        // after staging using add    <br/>
@@ -256,5 +258,5 @@ git log --author ="name"   // To check change by specific user       <br/>
 git status     // To check changes or status of the file       <br/>
 
 
-git add -p      // Chosing which part of a file to stage: </br>
+
 
