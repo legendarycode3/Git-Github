@@ -273,3 +273,7 @@ git show <commit>       //Show diff between a commit and its parent </br>
 git diff <commit> <file>   //Diff one file since a commit  </br>
 git diff <commit> <commit>   //Diff two commits. </br>
 git diff <commit> --stat  or  git show <commit> --stat   //Show a summary of a diff </br>
+
+
+
+git restore <file>      //Delete unstaged changes to one file </br>
