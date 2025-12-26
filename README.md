@@ -251,3 +251,5 @@ git log --author ="name"   // To check change by specific user       <br/>
 git status     // To check changes or status of the file       <br/>
 
 
+git add -p      // Chosing which part of a file to stage: </br>
+
