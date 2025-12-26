@@ -208,7 +208,7 @@ git remote remove origin               // Removes the link to the remote reposit
 
 
 
-git clone <url>                <br/>  // Download a remote repository from a url  <br/>
+git clone <url>                <br/>  // Download a remote repository from a url or clone and existing repo  <br/>
 
 git clone <url> <folder_name>       // Download the repository and give it a different
 folder name
