@@ -244,6 +244,7 @@ git reset <file>  // Unstage one file </br>
 git status       // Check what you added </br>
 git reset       // Unstage everything </br>
 git mv <old> <new>   //Move file  </br>
+git rm --cached <file>   //Tell Git to forget about a file without deleting it </br>
 
 
 
