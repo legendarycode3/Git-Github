@@ -280,3 +280,4 @@ git restore <file>  or git checkout <file>     //Delete unstaged changes to one 
 git restore --staged --worktree <file>  or  git checkout HEAD <file>    //Delete all staged and unstaged changes to one file </br>
 git reset --hard         //Delete all staged and unstaged changes  </br>
 git stash               //'Stash' all staged and unstaged changes  </br>
+git clean               //Delete untracked files </br>
