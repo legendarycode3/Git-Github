@@ -261,4 +261,7 @@ git status     // To check changes or status of the file       <br/>
 
 
 
+git checkout <name>  //Switch branches
+
+
 
