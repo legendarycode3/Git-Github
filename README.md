@@ -270,4 +270,5 @@ git checkout -b <name> or git switch -c <name>    //Create a branch  </br>
 
 
 git show <commit>       //Show diff between a commit and its parent </br>
-git diff <commit> <file>   //Diff one file since a commit
+git diff <commit> <file>   //Diff one file since a commit  </br>
+git diff <commit> <commit>   //Diff two commits
