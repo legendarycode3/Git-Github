@@ -237,7 +237,8 @@ git add filename        <br/>
 git add first.txt       // adding only one file   <br/>
 git add second.txt third.txt            // to add multiple file   <br/>
 git add .                // To add all the files and folders to the staging area     <br/>
-
+git add -p      // Chosing which part of a file to stage: </br>
+git rm <file>   // Adding untracked file or unchanged changes </br>
 
 
 git commit -m 'commit message'        // after staging using add    <br/>
