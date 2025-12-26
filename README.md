@@ -240,6 +240,7 @@ git add .                // To add all the files and folders to the staging area
 git add -p      // Chosing which part of a file to stage: </br>
 git rm <file>   // Adding untracked file or unchanged changes </br>
 git rm <file>   // Delete file </br>
+git reset <file>  // Unstage one file </br>
 
 
 git commit -m 'commit message'        // after staging using add    <br/>
