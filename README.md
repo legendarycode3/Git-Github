@@ -261,7 +261,7 @@ git status     // To check changes or status of the file       <br/>
 git switch -c <name>   //reate a branch
 
 
-git checkout <name>  // Switch branches </br>
+git checkout <name> or git switch <name>  // Switch branches </br>
 git branch            // List branch </br>
 git branch -d <name>   //Delete branch </br>
 git branch -D <name>     //Force delete a branch </br>
