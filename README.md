@@ -263,5 +263,5 @@ git status     // To check changes or status of the file       <br/>
 
 git checkout <name>  // Switch branches </br>
 git branch            // List branch </br>
-
+git branch -d <name>   //Delete branch </br>
 
