@@ -295,3 +295,4 @@ git commit --amend         //Change a commit message (or add a file you forgot) 
 
 git log main or  git log --graph main  or  git log --oneline        //Look at a branch's history  </br>
 git log --follow <file>         //Show every commit that modified a file, including before it was renamed
+git blame <file>            //Show who last changed each line of a file  </br>
