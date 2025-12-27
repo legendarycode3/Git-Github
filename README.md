@@ -314,3 +314,4 @@ git push origin main               //Push the main branch to the remote origin  
 git push -u origin <name>         //Push a branch that you've never pushed before  </br>
 git push --tags                  //Push tags  </br>
 git push                        //Push the current branch to its remote "tracking branch"  </br>
+git push --force-with-lease      //Force push   </br>
