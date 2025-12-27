@@ -261,7 +261,7 @@ git status     // To check changes or status of the file       <br/>
 git switch -c <name>   //reate a branch
 
 
-git checkout <name> or git switch <name>  // Switch branches </br>
+git checkout <name> OR git switch <name>  // Switch branches </br>
 git branch            // List branch </br>
 git branch -d <name>   //Delete branch </br>
 git branch -D <name>     //Force delete a branch </br>
@@ -272,11 +272,11 @@ git checkout -b <name> or git switch -c <name>    //Create a branch  </br>
 git show <commit>       //Show diff between a commit and its parent </br>
 git diff <commit> <file>   //Diff one file since a commit  </br>
 git diff <commit> <commit>   //Diff two commits. </br>
-git diff <commit> --stat  or  git show <commit> --stat   //Show a summary of a diff </br>
+git diff <commit> --stat  OR  git show <commit> --stat   //Show a summary of a diff </br>
 
 
 
-git restore <file>  or git checkout <file>     //Delete unstaged changes to one file </br>
+git restore <file>  OR git checkout <file>     //Delete unstaged changes to one file </br>
 git restore --staged --worktree <file>  or  git checkout HEAD <file>    //Delete all staged and unstaged changes to one file </br>
 git reset --hard         //Delete all staged and unstaged changes  </br>
 git stash               //'Stash' all staged and unstaged changes  </br>
@@ -298,3 +298,8 @@ git log --follow <file>         //Show every commit that modified a file, includ
 git blame <file>            //Show who last changed each line of a file  </br>
 git log <file>            //Show every commit that modified a file </br>
 git log -G banana         //Find every commit that added or removed some text </br>
+
+
+
+
+git checkout <commit> <file>      //Get the version of a file from another commit  </br>
