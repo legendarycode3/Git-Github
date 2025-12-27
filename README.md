@@ -297,3 +297,4 @@ git log main or  git log --graph main  or  git log --oneline        //Look at a 
 git log --follow <file>         //Show every commit that modified a file, including before it was renamed
 git blame <file>            //Show who last changed each line of a file  </br>
 git log <file>            //Show every commit that modified a file </br>
+git log -G banana         //Find every commit that added or removed some text </br>
