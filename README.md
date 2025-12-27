@@ -281,3 +281,8 @@ git restore --staged --worktree <file>  or  git checkout HEAD <file>    //Delete
 git reset --hard         //Delete all staged and unstaged changes  </br>
 git stash               //'Stash' all staged and unstaged changes  </br>
 git clean               //Delete untracked files </br>
+
+
+
+
+git reset HEAD^       //"Undo" the most recent commit (keep your working directory the same) </br>
