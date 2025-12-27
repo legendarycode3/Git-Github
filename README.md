@@ -326,4 +326,5 @@ git pull --rebase               //Fetch changes and then rebase your current bra
 
 
 
-git config user.name 'Your Name'      //Set a config option
+git config user.name 'Your Name'      //Set a config option  </br>
+git config alias.st status            //Add an alias   </br>
