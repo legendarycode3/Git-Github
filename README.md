@@ -303,3 +303,11 @@ git log -G banana         //Find every commit that added or removed some text </
 
 
 git checkout <commit> <file>  OR  git restore <file> --source <commit>     //Get the version of a file from another commit  </br>
+
+
+git remote add <name> <url>            //Add a Remote
+
+
+
+
+git push origin main               //Push the main branch to the remote origin  </br>
