@@ -286,3 +286,4 @@ git clean               //Delete untracked files </br>
 
 
 git reset HEAD^       //"Undo" the most recent commit (keep your working directory the same) </br>
+git reflog BRANCHNAME   //Undo a failed rebase  </br>
