@@ -320,3 +320,4 @@ git push --force-with-lease      //Force push   </br>
 
 
 git fetch origin main            //Fetch changes (but don't change any of your local branches)  </br>
+git pull origin main            //Fetch changes and then merge them into your current branch   </br>
