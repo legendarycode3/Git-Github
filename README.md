@@ -293,4 +293,4 @@ git commit --amend         //Change a commit message (or add a file you forgot) 
 
 
 
-git log main or           //Look at a branch's history
+git log main or  git log --graph main  or  git log --oneline        //Look at a branch's history
