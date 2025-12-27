@@ -312,3 +312,4 @@ git remote add <name> <url>            //Add a Remote  </br>
 
 git push origin main               //Push the main branch to the remote origin  </br>
 git push -u origin <name>         //Push a branch that you've never pushed before  </br>
+git push --tags                  //Push tags  </br>
