@@ -289,3 +289,8 @@ git reset HEAD^       //"Undo" the most recent commit (keep your working directo
 git reflog BRANCHNAME   //Undo a failed rebase  </br>
 git rebase -i HEAD~6      //Squash the last 5 commits into one. </br>
 git commit --amend         //Change a commit message (or add a file you forgot) </br>
+
+
+
+
+git log main or           //Look at a branch's history
