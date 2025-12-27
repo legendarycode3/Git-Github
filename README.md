@@ -335,3 +335,4 @@ git config --global ...            //Set option globally
 
 .git/config                        //Local git config  </br>
 .gitignore                        //List of files to ignore </br>
+~/.gitconfig                     //Global git config  </br>
