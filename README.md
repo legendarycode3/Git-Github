@@ -322,3 +322,8 @@ git push --force-with-lease      //Force push   </br>
 git fetch origin main            //Fetch changes (but don't change any of your local branches)  </br>
 git pull origin main  OR  git pull         //Fetch changes and then merge them into your current branch   </br>
 git pull --rebase               //Fetch changes and then rebase your current branch  </br>
+
+
+
+
+git config user.name 'Your Name'      //Set a config option
