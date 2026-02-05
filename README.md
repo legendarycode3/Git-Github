@@ -336,3 +336,8 @@ man git-config                  //ee all possible config options </br>
 .git/config                        //Local git config  </br>
 .gitignore                        //List of files to ignore </br>
 ~/.gitconfig                     //Global git config  </br>
+
+
+
+
+Ctrl+Shift+p                   //Pull latest changes.
