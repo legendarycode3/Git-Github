@@ -340,5 +340,5 @@ man git-config                  //ee all possible config options </br>
 
 
 
-git pull origin $(current_branch) 
-Ctrl+Shift+p                   //Pull latest changes.
+git pull origin $(current_branch)   //Fetch and merge latest changes from the remote </br>
+Ctrl+Shift+p                   //Pull latest changes.  </br>
