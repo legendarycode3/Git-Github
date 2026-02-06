@@ -349,4 +349,6 @@ git switch -c <name>            //Create and switch to a new branch </br>
 git switch banana & git switch main            //git rebase main  </br>
 git switch main & git merge banana               //Combine with merge  </br>
 git switch main & git merge --squash banana  &  git commit    //Combine with squash merge  </br>
+git switch main
 git cherry-pick <commit>                          //Copy one commit onto the current branch </br>
+
