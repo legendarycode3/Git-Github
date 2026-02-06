@@ -342,4 +342,4 @@ man git-config                  //ee all possible config options </br>
 
 git pull origin $(current_branch)   //Fetch and merge latest changes from the remote </br>
 Ctrl+Shift+p                   //Pull latest changes.  </br>
-git switch -c <name>
+git switch -c <name>            //Create and switch to a new branch </br>
