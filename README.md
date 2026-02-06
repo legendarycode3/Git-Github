@@ -345,4 +345,5 @@ Ctrl+Shift+p                   //Pull latest changes.  </br>
 git switch -c <name>            //Create and switch to a new branch </br>
 
 
-git switch main
+
+git switch main               //Combine with merge  </br>
