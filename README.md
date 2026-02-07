@@ -357,4 +357,5 @@ git cherry-pick <commit>                          //Copy one commit onto the cur
 
 git checkout <commit> <file> or git restore <file> --source <commit>       //Get the version of a file from another commit </br>
 git log main & git log --graph main & git log --oneline                   //Look at a branch's history </br>
+git reset HEAD^
 
