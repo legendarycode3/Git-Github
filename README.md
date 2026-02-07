@@ -359,5 +359,5 @@ git checkout <commit> <file> or git restore <file> --source <commit>       //Get
 git log main & git log --graph main & git log --oneline                   //Look at a branch's history </br>
 git reset HEAD^                                                //"Undo" the most recent commit (keep your working directory the same) </br>
 git blame <file>                                          //Show who last changed each line of a file  </br>
-git log --follow <file>
-
+git log --follow <file>                                    //Show every commit that modified a file, including before it was renamed  </br>
+      
