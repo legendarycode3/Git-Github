@@ -352,3 +352,9 @@ git switch main & git merge --squash banana  &  git commit    //Combine with squ
 git switch main  & git switch main                                 //Bring a branch up to date with another branch (aka "fast-forward merge")  </br>
 git cherry-pick <commit>                          //Copy one commit onto the current branch </br>
 
+
+
+
+git checkout <commit> <file>
+
+
