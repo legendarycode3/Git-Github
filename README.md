@@ -360,4 +360,5 @@ git log main & git log --graph main & git log --oneline                   //Look
 git reset HEAD^                                                //"Undo" the most recent commit (keep your working directory the same) </br>
 git blame <file>                                          //Show who last changed each line of a file  </br>
 git log --follow <file>                                    //Show every commit that modified a file, including before it was renamed  </br>
+git log -G banana
       
