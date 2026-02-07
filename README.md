@@ -355,6 +355,6 @@ git cherry-pick <commit>                          //Copy one commit onto the cur
 
 
 
-git checkout <commit> <file> or git restore <file> --source <commit>
+git checkout <commit> <file> or git restore <file> --source <commit>       //Get the version of a file from another commit </br>
 
 
