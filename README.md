@@ -1,6 +1,7 @@
 #### INTRODUCTION TO GIT AND GITHUB  <br/>
 
 "Git" is the underlying technology for version control. It is the tool that tracks changes and manages the history of your code.  <br/>
+Version control tools (often called Version Control Systems or VCS) are an essential part
 
 "GitHub" is a service that hosts Git repositories and provides a platform for collaboration and project management around those repositories.  <br/>
 
