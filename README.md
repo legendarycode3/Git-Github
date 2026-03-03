@@ -3,6 +3,7 @@
 "Git" is the underlying technology for version control. It is the tool that tracks changes and manages the history of your code.  <br/>
 Version control tools (often called Version Control Systems or VCS) are an essential part of modern coding workflows–for backing up code, collaborating on codebases, and rolling
 back to earlier versions if required. </br>
+Git is an example of a version control tool. GitHub, on the other hand, is a website and infrastructure that provides a Git server plus a number of useful tools for working with Git repositories, both individually and in teams.  </br>
 
 "GitHub" is a service that hosts Git repositories and provides a platform for collaboration and project management around those repositories.  <br/>
 
@@ -14,6 +15,7 @@ Git works on your computer, but you also use it with online services like GitHub
 You need to use git and github either to store your projects on the cloud or to collabrate with your team.  <br/>
 
 Version Control: It records changes to files over time, enabling developers to revert to previous versions, compare changes, and understand the evolution of the codebase.   <br/>
+
 
 
 
