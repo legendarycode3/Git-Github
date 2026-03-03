@@ -4,7 +4,8 @@
 
 "GitHub" is a service that hosts Git repositories and provides a platform for collaboration and project management around those repositories.  <br/>
 
-"Git" is an open-source, distributed version control system (VCS) that tracks changes in source code during software development. It allows multiple developers to work on the same project simultaneously without overwriting each other's work. <br/>
+"Git" is an open-source, distributed version control system (VCS) that tracks changes in source code during software development. It allows multiple developers to work on the same project simultaneously without overwriting each other's work. <br/> 
+Git works on your computer, but you also use it with online services like GitHub, GitLab, or Bitbucket to share your work with others. These are called remote repositories. </br>
 
 "Git" is a version control tool. In one way or the other you may need to use a git and a github.  <br/>
 
